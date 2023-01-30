@@ -1,0 +1,47 @@
+img {
+    width: 35%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.col{
+    display: inline;
+    padding: 10px;
+    
+}
+h1{
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: 100;
+}
+h4{
+    font-style: arial;
+    font-weight: 100; 
+}
+.img1{
+    width:500px;
+    height: 400px;
+    border-color: aqua;
+    padding: 10px;
+    box-shadow: 20px;
+}
+.img2{
+    width:500px;
+    height: 400px;
+    border-color: aqua;
+    padding: 10px;
+    box-shadow: 20px;
+}
+.img3{
+    width:500px;
+    height: 400px;
+    border-color: aqua;
+    padding: 10px;
+    box-shadow: 20px;
+}
+.copy_right_footage{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
